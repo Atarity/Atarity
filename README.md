@@ -1,4 +1,7 @@
-### Hi there 👋
+### ⛽️ 🦀 🏅 🥙
+I'm a maker who passionate about the process. In love with Open Source since 2006. Tinkerer. Startup guy. Hackathon junkie.
+
+<img src="https://github-readme-stats.vercel.app/api?username=Atarity&show_icons=true&hide_border=true"/>
 
 <!--
 **Atarity/Atarity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

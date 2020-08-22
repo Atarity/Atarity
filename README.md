@@ -10,7 +10,7 @@ I'm a cross-functional maker who passionate about the process.
 - Learning how to survive in DevOps
 - Trying to catch recent sunny weekends
 
-<img src="https://github-readme-stats.vercel.app/api?username=Atarity&show_icons=true&hide_border=true&hide_title=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Atarity&show_icons=true&hide_border=true&hide_title=true&count_private=true"/>
 
 <!--
 **Atarity/Atarity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

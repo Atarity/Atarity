@@ -1,14 +1,14 @@
-### ⛽️ 🦀 🏅 🥙
-I'm a cross-functional maker who passionate about the process. 
+### I'm a cross-functional maker who passionate about a process 
 - In love with Open Source for ages
 - Tinkerer
 - Startup guy
-- Hackathon junkie
+- Hackathon junkie @ ⛽️ 🦀 🏅 🥙
 
-### Currently I'm
+### Currently, I'm
+- Managing RnD in the [Simkomat](https://simkomat.com/en/)
+- Techy mentor for [Boost Fin](https://boostsurfing.com/)
 - Making my own "homepage"
-- Learning how to survive in DevOps
-- Trying to catch recent sunny weekends
+- Learning how to survive in DevOps whitewater
 
 <img src="https://github-readme-stats.vercel.app/api?username=Atarity&show_icons=true&hide_border=true&hide_title=true&count_private=true"/>
 

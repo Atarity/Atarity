@@ -5,8 +5,9 @@
 - Hackathon junkie @ ⛽️ 🦀 🏅 🥙
 
 ### Currently, I'm
-- Managing RnD in the [Simkomat](https://simkomat.com/en/)
-- Learning how to survive in DevOps whitewater
+- Consulting big tech and tiny startups on hardware development
+- Diving deeper into sound synthesis
+- Shitposting to [snnkv.com](https://snnkv.com/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Atarity&show_icons=true&hide_border=true&hide_title=true&count_private=true"/>
 

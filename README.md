@@ -5,8 +5,9 @@
 - Hackathon junkie @ ⛽️ 🦀 🏅 🥙
 
 ### Currently, I'm
-- Trying to survive outside of the Russia 
-- Trying to help those people from Ukraine, Belarus and Russia whose lives was ruined suddenly.
+- Trying to survive outside of the Russia
+- In search of next long-term opportunity
+- Diving deeper into sea rock fishing.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Atarity&show_icons=true&hide_border=true&hide_title=true&count_private=true"/>
 

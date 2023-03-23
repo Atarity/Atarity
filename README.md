@@ -5,9 +5,9 @@
 - Hackathon junkie @ ⛽️ 🦀 🏅 🥙
 
 ### Currently, I'm
-- Trying to survive outside of the Russia
-- In search of next long-term opportunity
-- Diving deeper into sea rock fishing.
+- Creating offline EV charging infrastructure in the YC-baked startup
+- In search of next DIY collab
+- Diving deeper into modular synths.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Atarity&show_icons=true&hide_border=true&hide_title=true&count_private=true"/>
 

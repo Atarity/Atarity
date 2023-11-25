@@ -5,7 +5,7 @@
 - Hackathon junkie @ ⛽️ 🦀 🏅 🥙
 
 ### Currently, I'm
-- Creating offline EV charging infrastructure in the YC-baked startup
+- Consulting HW RnD and mass production for consumer and industrial electronics
 - In search of next DIY collab
 - Diving deeper into modular synths.
 

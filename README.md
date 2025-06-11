@@ -2,12 +2,6 @@
 - In love with Open Source for ages
 - Tinkerer
 - Startup guy
-- Hackathon junkie @ ⛽️ 🦀 🏅 🥙
-
-### Currently, I'm
-- Consulting HW RnD and mass production for consumer and industrial electronics
-- In search of next DIY collab
-- Diving deeper into modular synths.
 
 <!--
 **Atarity/Atarity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
